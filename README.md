@@ -1,1 +1,3 @@
 # alpro-tugas1
+NAMA : MUHAMMAD DANIEL ILYASA
+NIM  : I.2210232
